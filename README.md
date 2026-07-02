@@ -1,6 +1,8 @@
 # Hi, I’m Poom 👋
 
-I’m a Thai engineering student at Tohoku University 🇹🇭🇯🇵 with a strong background in mathematics and a growing focus on software, data, and AI 🤖📊
+I’m a Thai Mechanical and Aerospace Engineering student at Tohoku University 🇹🇭🇯🇵
+
+Although I do not come from a traditional computer science background, I have a strong foundation in mathematics and engineering, with a growing focus on software, data, and AI 🤖📊
 
 My goal is to build technology that connects people across cultures and solves practical problems 🌏
 
